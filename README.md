@@ -11,6 +11,6 @@ Tableau Project using different types of Charts
 8. Used different Parameters to view different charts in the same place upon selecting various available options (Delay Types Tab on the Dashboard).
 9. Shared a few Insights regarding the Flight Delays, Airports and different Airlines in USA
 
-Please use this link to see the Dashboard
+Please use this link to see the Dashboard (Use Full Screen Mode for better view)
 
 https://public.tableau.com/shared/9SPPXP2G5?:display_count=y&:origin=viz_share_link
